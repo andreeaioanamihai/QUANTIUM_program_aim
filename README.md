@@ -33,4 +33,6 @@ Remember when working with a client visualisations are key to helping them under
 
      Task 3: Analytics and commercial application
 
-Create a report with data visualisations, key callouts, insights as well as recommendations and/or next steps.
+Create a report with data visualisations, key callouts, insights as well as recommendations and/or next steps that can be used when developing the strategic plan for the next half year.
+
+
